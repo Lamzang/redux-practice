@@ -1,1 +1,3 @@
 # Vanilla-Redux
+
+- counter
